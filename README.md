@@ -1,4 +1,4 @@
-#Skript Robots [1.16-1.18]
+# Skript Robots [1.16-1.18]
 Plugin-like robot system made in Skript v2.6.1
 
 This skript allows you to create custom Robots with Skript. Upgrade currency, reward currency, robot item (including NBT) and much more are all customisable in the config.txt file.
