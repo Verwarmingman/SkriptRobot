@@ -10,7 +10,6 @@ If you run into any issues, have questions, or want a new feature added, please 
 
 Links
 Skript: https://github.com/SkriptLang/Skript
-
 Purchase: https://www.mc-market.org/resources/23295/
 
 Examples and Documentation
