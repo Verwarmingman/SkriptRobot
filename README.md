@@ -13,6 +13,4 @@ Skript: https://github.com/SkriptLang/Skript
 Purchase: https://www.mc-market.org/resources/23295/
 
 # Examples and Documentation
-Documentation is available on the following wikis:
-
-GitHub Wiki: https://github.com/Verwarmingman/SkriptRobot/wiki
+Documentation is available on the following wiki: https://github.com/Verwarmingman/SkriptRobot/wiki
