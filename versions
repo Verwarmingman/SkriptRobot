@@ -1,0 +1,10 @@
+VERSIONS
+- March 22, 2022: v1.0.0
+  * Initial release of the skript
+- May 23rd, 2022: v1.0.1
+  * Bugg fixes: scrolling through robot pages
+- June 8th, 2022: v1.0.2
+  * Bugg fixes: Giving robots through admin panel
+  * Bugg fixes: new permission -> robot.player
+- xxx, 2022: v1.0.3
+  * Update: Inventory robot merges -> Drag and drop to upgrade to next Id on ladder + option in config.yml
